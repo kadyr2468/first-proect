@@ -161,3 +161,18 @@ justify-content: space-between;
     position: relative;
     top: -150px;
 }
+.sec6box h2{
+    color: #1E74EC;
+}
+.sec6box{
+    width: 30%;
+}
+.sec6-box{
+    display: flex;
+    justify-content: space-between;
+    column-gap: 20px;
+    padding: 79px 0 0 0 ;
+}
+.ppp{
+   width: 50%;
+}
