@@ -1,0 +1,163 @@
+*{
+    margin: 0;
+    padding: 0;
+
+}
+.container{
+    width: 1140px;
+    margin: 0 auto;
+}
+header{
+    background: url("bg.png")center/cover no-repeat;
+    padding-bottom: 190px;
+}
+.hed ul{
+    color: aliceblue;
+}
+.right{
+    display: flex;
+    color: white;
+
+
+}
+.header__top{
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 170px;
+}
+ul{
+    list-style: none;
+    display: flex;
+    column-gap: 20px;
+}
+.left{
+    display: flex;
+    justify-content: normal;
+    padding: 20px 0;
+}
+.top{
+    color: white;
+}
+.right img{
+    width: 80px;
+    height: 80px;
+}
+
+.pop{
+    color: white;
+}
+.text{
+    color: white;
+}
+.pop{
+
+    display: flex;
+    justify-content: space-between;
+}
+.pop-1{
+   width: 200px;
+    height: 150px;
+    padding-top:40px ;
+    text-align: center;
+ }
+.text1{
+    width: 50%;
+}
+.text2{
+    width: 50%;
+}
+.text__blue{
+    color: #1E74EC;
+}
+ .sec1-left img{
+    width: 100%;
+}
+.sec1-left{
+    width: 60%;
+
+}
+.sec-box{
+    display: flex;
+    justify-content: space-around;
+}
+.sec1-right{
+    width: 35%;
+}
+.sec1-button{
+ display: flex;
+    justify-content: space-around;
+
+}
+.sec1-button2{
+    background: blue;
+    list-style: none;
+}
+.sec1{
+    padding:50px 0 0 0  ;
+}
+.sec2-text{
+    width: 55%;
+}
+.sec2box{
+    width: 33%;
+
+}
+
+
+
+.sec2-top{
+    display: flex;
+    justify-content: space-between;
+}
+.sec2-bottom{
+    display: flex;
+    justify-content: space-between;
+}
+.sec2-11 h2{
+    color: #ff62fa;
+
+}
+.sec2-11{
+    display: flex;
+    align-items: center;
+    padding: 64px 0 0 87px ;
+    column-gap: 15px;
+
+}
+.sec4{
+    text-align: center;
+    margin: 30px;
+    background: #E6E8EF;
+
+}
+
+
+.sec4-text h2{
+    text-align: center;
+    margin: 10px;
+
+}
+.sec4-text{
+    background: #E6E8EF;
+    padding: 245px 0 285px;
+}
+.sec5-img img{
+    width: 80%;
+}
+.sec5-top{
+    display: flex;
+    justify-content: space-between;
+    text-align: center;
+position: relative;
+    top: -200px;
+}
+.sec5-bottom{
+    display: flex;
+justify-content: space-between;
+    position: relative;
+    top: -170px;
+}
+.button11{
+    position: relative;
+    top: -150px;
+}
